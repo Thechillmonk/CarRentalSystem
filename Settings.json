@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "DefaultConnection": "Server=VOYAGER\\MSSQLSERVER02;Database=CarRentalSystem;Trusted_Connection=True;"
+  }
+} 
